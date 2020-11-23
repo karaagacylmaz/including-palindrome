@@ -1,0 +1,13 @@
+C:\Users\ykaraagac\source\repos\stringendtoend\stringendtoend\bin\Debug\netcoreapp3.1\stringendtoend.exe
+C:\Users\ykaraagac\source\repos\stringendtoend\stringendtoend\bin\Debug\netcoreapp3.1\stringendtoend.deps.json
+C:\Users\ykaraagac\source\repos\stringendtoend\stringendtoend\bin\Debug\netcoreapp3.1\stringendtoend.runtimeconfig.json
+C:\Users\ykaraagac\source\repos\stringendtoend\stringendtoend\bin\Debug\netcoreapp3.1\stringendtoend.runtimeconfig.dev.json
+C:\Users\ykaraagac\source\repos\stringendtoend\stringendtoend\bin\Debug\netcoreapp3.1\stringendtoend.dll
+C:\Users\ykaraagac\source\repos\stringendtoend\stringendtoend\bin\Debug\netcoreapp3.1\stringendtoend.pdb
+C:\Users\ykaraagac\source\repos\stringendtoend\stringendtoend\obj\Debug\netcoreapp3.1\stringendtoend.csprojAssemblyReference.cache
+C:\Users\ykaraagac\source\repos\stringendtoend\stringendtoend\obj\Debug\netcoreapp3.1\stringendtoend.AssemblyInfoInputs.cache
+C:\Users\ykaraagac\source\repos\stringendtoend\stringendtoend\obj\Debug\netcoreapp3.1\stringendtoend.AssemblyInfo.cs
+C:\Users\ykaraagac\source\repos\stringendtoend\stringendtoend\obj\Debug\netcoreapp3.1\stringendtoend.csproj.CoreCompileInputs.cache
+C:\Users\ykaraagac\source\repos\stringendtoend\stringendtoend\obj\Debug\netcoreapp3.1\stringendtoend.dll
+C:\Users\ykaraagac\source\repos\stringendtoend\stringendtoend\obj\Debug\netcoreapp3.1\stringendtoend.pdb
+C:\Users\ykaraagac\source\repos\stringendtoend\stringendtoend\obj\Debug\netcoreapp3.1\stringendtoend.genruntimeconfig.cache
